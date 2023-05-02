@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilanjan Jana</h1>
 <h3 align="center">Undergraduate Software Engineer fresher with a highly analytical mindset, passion for innovation. Proficient in predictive modeling, data processing and various machine learning framework.</h3>
 
-- 🔭 I’m currently working on [What'sApp chat & Sentiment analyzer](https://github.com/NilanjanJana16/Data-Science/tree/main/Projects/wachat-analyzer)
+- 🔭 I’m currently working on [Phisihing URL Detector for G20 Kavac](https://github.com/NilanjanJana16/Phishing-Website-Kavach-ML)
 
 - 🌱 I’m currently learning **Spark**
 
